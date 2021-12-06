@@ -1,0 +1,26 @@
+[
+    {
+        "1" : "If I have it, I don’t share it. If I share it, I don’t have it. What is it?",
+        "2" : "I have a head and tail, but no body. What am I?",
+        "3" : "What begins with T, finishes with T, and has “T” in it?",
+        "4" : "Which word is spelt wrong in every dictionary?",
+        "5" : "The more you take the more you leave behind. What are they?",
+        "6" : "I am an odd number. Take away a letter and I become even. What number am I?",
+        "7" : "What is so fragile that saying its name breaks it?",
+        "8" : "It’s the only place in the world where today comes before yesterday. Where is it?",
+        "9" : "You’re running a race and at the very end, you pass the person in 2nd place. What place did you finish the race in?",
+        "10" : "Alright an easy one, How many more weeks till we are done with the bootcamp?"
+    },
+    {
+        "1" : "secret",
+        "2" : "coin",
+        "3" : "teapot",
+        "4" : "wrong",
+        "5" : "footsteps",
+        "6" : "seven",
+        "7" : "silence",
+        "8" : "dictionary",
+        "9" : "second",
+        "10" : "5"
+    }
+]
